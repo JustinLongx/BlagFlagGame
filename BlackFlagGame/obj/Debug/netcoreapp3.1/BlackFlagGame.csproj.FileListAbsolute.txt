@@ -1,0 +1,14 @@
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\bin\Debug\netcoreapp3.1\BlackFlagGame.exe
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\bin\Debug\netcoreapp3.1\BlackFlagGame.deps.json
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\bin\Debug\netcoreapp3.1\BlackFlagGame.runtimeconfig.json
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\bin\Debug\netcoreapp3.1\BlackFlagGame.runtimeconfig.dev.json
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\bin\Debug\netcoreapp3.1\BlackFlagGame.dll
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\bin\Debug\netcoreapp3.1\BlackFlagGame.pdb
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\obj\Debug\netcoreapp3.1\BlackFlagGame.csproj.AssemblyReference.cache
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\obj\Debug\netcoreapp3.1\BlackFlagGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\obj\Debug\netcoreapp3.1\BlackFlagGame.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\obj\Debug\netcoreapp3.1\BlackFlagGame.AssemblyInfo.cs
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\obj\Debug\netcoreapp3.1\BlackFlagGame.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\obj\Debug\netcoreapp3.1\BlackFlagGame.dll
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\obj\Debug\netcoreapp3.1\BlackFlagGame.pdb
+C:\Users\justi\source\repos\BlackFlagGame\BlackFlagGame\obj\Debug\netcoreapp3.1\BlackFlagGame.genruntimeconfig.cache
